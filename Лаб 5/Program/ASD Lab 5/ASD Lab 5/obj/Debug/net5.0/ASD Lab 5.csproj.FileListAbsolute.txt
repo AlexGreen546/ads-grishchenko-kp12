@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\obj\Debug\net5.0\ASD Lab 5.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\obj\Debug\net5.0\ASD Lab 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\obj\Debug\net5.0\ASD Lab 5.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\obj\Debug\net5.0\ASD Lab 5.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\obj\Debug\net5.0\ASD Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\bin\Debug\net5.0\ASD Lab 5.exe
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\bin\Debug\net5.0\ASD Lab 5.deps.json
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\bin\Debug\net5.0\ASD Lab 5.runtimeconfig.json
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\bin\Debug\net5.0\ASD Lab 5.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\bin\Debug\net5.0\ASD Lab 5.dll
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\bin\Debug\net5.0\ref\ASD Lab 5.dll
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\bin\Debug\net5.0\ASD Lab 5.pdb
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\obj\Debug\net5.0\ASD Lab 5.dll
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\obj\Debug\net5.0\ref\ASD Lab 5.dll
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\obj\Debug\net5.0\ASD Lab 5.pdb
+C:\Users\Asus\Desktop\Асд лабы\Лаб 5\Program\ASD Lab 5\ASD Lab 5\obj\Debug\net5.0\ASD Lab 5.genruntimeconfig.cache
